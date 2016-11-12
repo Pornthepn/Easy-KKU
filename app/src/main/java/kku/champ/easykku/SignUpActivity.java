@@ -50,7 +50,7 @@ public class SignUpActivity extends AppCompatActivity {
                     MyAlert myAlert = new MyAlert(SignUpActivity.this,R.drawable.doremon48,"มีช่องว่าง","กรุณากรอกให้ครบค่ะ");
                             myAlert.myDialog();
                 }
-            } // onClick
+            }  // onClick
         });
 
     } // Main Method
